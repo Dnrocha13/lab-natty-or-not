@@ -20,22 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# DOCE ENCANTO DA DANI: ARTIGOS PARA FESTAS ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Gerar imagens para criação de artigos de festas como sublimação para canecas personalizadas, caixinhas milk, pirâmides, e outros artigos de festas e decorações.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+utilizando o COPILOT da microsoft bing, além de ferramentas para edição de imagens com IA como FREEPIK, além de outras como CANVA, UDOIS e outros aplicativos
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+utilizamos o COPILOT para dar ideias e/ou gerar imagens para temas de festas, ou se for o caso, nós também usamos o FREEPIK para gerar imagens para impressão de caixinhas e outros artigos.
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+No início deu bastante trabalho, mas aos poucos estamos experimentando algo sensacional com essas imagens geradas por IA
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É incrível como nos auxilia o nosso trabalho, pois antes precisávamos fazer tudo manualmente através de outros aplicativos, mas gerando imagens perfeitas e textos prontos já para impressão de caixinhas e priâmides, é sensacional!!
 ```
 
 ### Exemplos e Insigths
